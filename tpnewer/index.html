@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIIT University Chatbot</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Fullscreen background section -->
+    <div class="background-overlay"></div>
+
+    <!-- Chatbot Container -->
+    <div class="chat-container">
+        <!-- Chatbot Intro Section -->
+        <div class="intro-section">
+            <h1>Welcome to the KIIT University Chatbot!</h1>
+            <p>Our AI-powered chatbot is here to assist you with a variety of university-related queries, including:</p>
+            <ul>
+                <li>Academic calendar</li>
+                <li>Leave allowances</li>
+                <li>Requesting documents like NOC and Bonafide Certificate</li>
+                <li>Course registration</li>
+                <li>Placement details</li>
+                <li>Hostel & cafeteria info</li>
+                <li>And much more...</li>
+            </ul>
+            <p>Feel free to ask anything, and I’ll provide you with the answers!</p>
+        </div>
+
+        <!-- Chat Header -->
+        <div class="chat-header">
+            <h2>KIIT University Chatbot</h2>
+        </div>
+
+        <!-- Scrollable Chat Box -->
+        <div id="chat-box" class="chat-box">
+            <div class="chat-message chatbot-message">
+                <p>Hi! How can I assist you today?</p>
+            </div>
+        </div>
+
+        <!-- Bottom Input Section -->
+        <div class="chat-input-section">
+            <input type="text" id="user-input" placeholder="Ask me anything...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

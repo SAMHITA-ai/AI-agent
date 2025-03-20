@@ -1,0 +1,29 @@
+{
+    "employees": {
+        "2205557": {
+            "name": "Ishaan Mukherjee",
+            "attendance": 85,
+            "leave_balance": 5
+        },
+        "22053702": {
+            "name": "Prityanshu Yadav",
+            "attendance": 95,
+            "leave_balance": 15
+        },
+        "2205585": {
+            "name": "Mohit Gupta",
+            "attendance": 55,
+            "leave_balance": 5
+        },
+        "2205584": {
+            "name": "Mayur Gogoi",
+            "attendance": 99,
+            "leave_balance": 15
+        },
+        "22053211": {
+            "name": "Trideb Dhar",
+            "attendance": 75,
+            "leave_balance": 8
+        }
+    }
+}

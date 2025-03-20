@@ -1,0 +1,38 @@
+/* Chat Input Section */
+.chat-input-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #ffffff;
+    border-top: 2px solid #ddd;
+    border-radius: 0 0 20px 20px;
+    position: relative; /* Ensure it stays in place */
+}
+
+.chat-input-section input {
+    width: 75%;
+    padding: 12px;  /* Increased padding for better visibility */
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    color: #333;
+    box-sizing: border-box;  /* Ensures padding doesn’t affect the width */
+    outline: none;  /* Remove default outline */
+}
+
+.chat-input-section button {
+    padding: 12px 15px; /* Match input padding for consistency */
+    background-color: #ff6fa1;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+    outline: none;
+}
+
+.chat-input-section button:hover {
+    background-color: #ff4e8a; /* Darker pink on hover */
+}

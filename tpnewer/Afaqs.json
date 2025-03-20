@@ -1,0 +1,76 @@
+{
+    "faqs": {
+        "academic calendar": "The academic calendar can be found on the university website. The semester starts in August and January.",
+        "backlog exam registration": "Backlog exam registration opens one month before final exams. Check the university portal for updates.",
+        "backlog eligibility": "Students with a failed subject can register for backlog exams. You can attempt it twice before re-enrolling.",
+        "semester start date": "The new semester starts on August 1st and January 10th every year.",
+        "leave policy": "Students can take a maximum of 10 leave days per semester with prior approval from faculty.",
+        "grading system": "Grades are awarded on a 10-point CGPA scale with letter grades (A+, A, B+, etc.).",
+        
+        "minimum attendance requirement": "Students must have at least 75% attendance to be eligible for exams.",
+        "exam retake policy": "Students can retake an exam if they fail, but additional fees may apply.",
+        "exam schedule release date": "Exam schedules are released one month before exams start.",
+        "assignment deadline extension": "Extensions may be granted in case of medical emergencies or valid reasons.",
+        "how to apply for re-evaluation": "Re-evaluation requests must be submitted within 7 days after results are published.",
+        
+        "course registration dates": "Course registration begins two weeks before the semester starts.",
+        "credit limit per semester": "Students can take a maximum of 24 credits per semester.",
+        "course withdrawal deadline": "Students can withdraw from a course within the first three weeks.",
+        "where to find the timetable": "Your course timetable is available on the student portal.",
+        
+        "hostel application process": "Students must apply online for hostel accommodation before the semester begins.",
+        "hostel curfew timings": "Curfew for hostels is 10:00 PM for first-year students and 11:30 PM for others.",
+        "guest stay policy in hostels": "Guests are allowed with prior permission from the warden.",
+        "can students cook in hostels": "Cooking is not allowed in rooms but permitted in designated areas.",
+        
+        "sports facilities available": "The university offers football, basketball, cricket, badminton, and gym facilities.",
+        "how to join a sports team": "Tryouts are held at the beginning of each semester for all university teams.",
+        "gym membership cost": "Gym access is free for students, but personal training has additional charges.",
+        "sports scholarships available": "Athletic scholarships are awarded based on performance and selection trials.",
+        "inter-university sports competitions": "The university participates in inter-college and national-level tournaments.",
+        
+        "list of student clubs": "Clubs include Robotics, Debate, Music, Drama, Coding, Literature, and Photography.",
+        "how to join a club": "Attend the club orientation or sign up through the student activity portal.",
+        "event participation certificates": "Certificates are awarded for participation in university events and competitions.",
+        "how to start a new club": "Submit a proposal to the student council for approval.",
+        
+        "annual fest dates": "The university hosts an annual fest in November.",
+        "how to participate in cultural fest": "Registrations for events open a month before the fest starts.",
+        "can non-students attend fests": "Non-students can attend with prior permission or a visitor pass.",
+        "tech fest competition details": "Tech fest includes hackathons, coding challenges, and robotics competitions.",
+        
+        "placement eligibility criteria": "Students with a minimum CGPA of 6.5 can apply for placements.",
+        "how to apply for internships": "Internship applications can be made through the placement cell or external websites.",
+        "is attendance required for placement sessions": "Yes, attending pre-placement talks is mandatory for eligibility.",
+        "companies visiting for placements": "The list of recruiting companies is updated on the placement portal.",
+        "resume submission deadline": "Resumes must be submitted at least two weeks before placement drives.",
+        
+        "library opening hours": "The library is open from 8 AM to 10 PM on weekdays and 9 AM to 6 PM on weekends.",
+        "how to borrow books from the library": "Students can borrow up to 4 books for 15 days with a valid ID card.",
+        "digital library access": "The university provides access to e-books and research journals online.",
+        "study room booking process": "Group study rooms can be booked through the library portal.",
+        
+        "cafeteria timings": "The cafeteria is open from 7 AM to 11 PM every day.",
+        "emergency medical facilities": "The campus has a 24/7 medical center for students.",
+        "transport facilities": "The university provides shuttle buses for students living off-campus.",
+        "lost and found department location": "The lost and found office is located in the main administrative building.",
+        
+        "counseling services available": "The university offers free counseling services for students.",
+        "how to report harassment": "Students can report harassment through the grievance cell or online portal.",
+        "financial aid options": "Scholarships and fee waivers are available based on merit and need.",
+        "student grievance redressal": "Complaints can be submitted online or through the student affairs office.",
+        
+        "how to access campus Wi-Fi": "Students must log in using their university ID on the campus Wi-Fi portal.",
+        "IT support contact": "IT support is available at the help desk in the library building.",
+        "university email login issues": "For email login issues, contact the IT support team.",
+        
+        "how to get a student ID card": "ID cards are issued during orientation and can be reprinted if lost.",
+        "part-time job opportunities": "Students can apply for part-time jobs on campus through the career cell.",
+        "how to get a bonafide certificate": "Bonafide certificates can be requested from the administrative office.",
+        "how to request a transcript": "Transcripts can be requested through the student portal or admin office.",
+        "how to apply for a name correction": "Submit an official request with supporting documents to the registrar.",
+        "is ragging allowed on campus": "No, ragging is strictly prohibited and punishable under university policies.",
+        "disciplinary actions for misconduct": "Students violating rules may face suspension or expulsion.",
+        "where to find university announcements": "Official announcements are posted on the university website and notice boards."
+    }
+}
